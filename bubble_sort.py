@@ -1,4 +1,4 @@
-# Python program for implementation of Bubble Sort:
+# Python program for implementation of Bubble Sort (https://de.wikipedia.org/wiki/Bubblesort#/media/Datei:Bubble-sort-example-300px.gif):
 #  - sort an arbitrary array handed as arg list (max size 20)
 #  - print unsorted list
 #  - print sorted list
